@@ -9,6 +9,9 @@
  * @author hague
  */
 public class Git_Test {
+    
+    int test;
+    
     public static void main (String[] args){
             System.out.println("test");
     }
