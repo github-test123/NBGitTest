@@ -10,7 +10,8 @@
  */
 public class Git_Test {
     
-    int test;
+    int test = 0;
+    int test2 = 1;
     
     public static void main (String[] args){
             System.out.println("test");
